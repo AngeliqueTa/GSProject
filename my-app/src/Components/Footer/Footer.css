@@ -1,0 +1,62 @@
+.FooterItems{
+    background: linear-gradient(90deg, #213B71 0%, #213B71 100%);
+    height: 188px;
+    display: flex;
+    top: 3332px;
+    justify-content: center;
+    align-items: center;
+    font-size: 12px;
+}
+
+.Footer-logo {
+    color: #fff;
+    justify-self: start;
+    margin-left: 20px;
+    cursor: pointer;
+}
+
+.fa-react {
+    margin-left: 0.5rem;
+    font-size: 1.6rem;
+}
+
+.Footer-menu{
+    display:grid;
+    grid-template-columns: repeat(7, auto);
+    grid-gap: 10px;
+    list-style: none;
+    text-align: center;
+    justify-content: end;
+    margin-right: 2rem;
+    width: 35vw;
+}
+
+.Footer-media{
+    width: 20vw;
+    display:grid;
+    grid-template-columns: repeat(4, auto);
+    grid-gap: 10px;
+    list-style: none;
+    text-align: center;
+    justify-content: end;
+    margin-right: 2rem;
+}
+
+.Footer-websiterights{
+    width: 60vw;
+    display:grid;
+    grid-template-columns: repeat(3, auto);
+    grid-gap: 10px;
+    list-style: none;
+    justify-content: end;
+    opacity: 1;
+    letter-spacing: -0.15px;
+}
+
+.Footer-links{
+    color: #fff;
+    text-decoration: none;
+    width: 10vw;
+    grid-gap: 10px;
+    margin-right: 2rem;
+}
