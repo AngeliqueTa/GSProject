@@ -7,21 +7,21 @@ export const FooterMedia = [
     {
         title: 'Facebook',
         url: '#',
-        MediaImage: <img src={facebook} rounded/>
+        MediaImage: <img src={facebook} rounded='true'/>
     },
     {
         title: 'Linkedin',
         url: '#',
-        MediaImage: <img src={linkedin} rounded/>
+        MediaImage: <img src={linkedin} rounded='true'/>
     },
     {
         title: 'Youtube',
         url: '#',
-        MediaImage: <img src={youtube} rounded/>
+        MediaImage: <img src={youtube} rounded='true'/>
     },
     {
         title: 'Twitter',
         url: '#',
-        MediaImage: <img src={twitter} rounded/>
+        MediaImage: <img src={twitter} rounded='true'/>
     }
 ]

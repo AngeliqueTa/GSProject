@@ -1,0 +1,86 @@
+.PanelItems{
+    background: linear-gradient(90deg, #F6F6F6 0%, #F6F6F6 100%);
+    height: 574px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 12px;
+}
+
+.Green{
+    color: #64BC4D
+}
+
+.Yellow{
+    color: #FAC913
+}
+
+.Blue{
+    color: #213B71
+}
+
+.panel-images{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 12px;
+    width: 416px;
+    height: 371px;
+}
+
+.services-label1{
+    position: absolute;
+    top: 20%;
+    left: 20%;
+    transform: translate(-50%, -50%);
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.services-label2{
+    position: absolute;
+    top: 50%;
+    left: 20%;
+    transform: translate(-50%, -50%);
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 27px;
+}
+
+
+.read-button1{
+    color: #ffffff;
+    background-color: #FAC913;
+    align-items: center;
+    font-size: 12px;
+    height: 42px;
+    width: 207px;
+    font-weight: bold;
+    top: 70%;
+    left: 20%;
+}
+
+.read-button2{
+    color: #ffffff;
+    background-color: #64BC4D;
+    align-items: center;
+    font-size: 12px;
+    height: 42px;
+    width: 207px;
+    font-weight: bold;
+    top: 70%;
+    left: 20%;
+}
+
+.read-button3{
+    color: #ffffff;
+    background-color: #213B71;
+    align-items: center;
+    font-size: 12px;
+    height: 42px;
+    width: 207px;
+    font-weight: bold;
+    top: 70%;
+    left: 20%;
+}

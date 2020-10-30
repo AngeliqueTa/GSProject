@@ -1,0 +1,21 @@
+.header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 32px;
+}
+
+.form-content-left{
+    height: 560px;
+    width: 560px;
+    left: 303px;
+}
+
+.form-content-right{
+    margin-left: 15px;
+}
+
+.formphoto{
+    height: 415px;
+    width: 415px;
+}
